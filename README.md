@@ -8,7 +8,7 @@ This repository serves as the companion code base for the **Technically Narrativ
 
 These templates are discussed and expanded upon in my newsletter, where I writer about the technical elements of writing.
 
-👉 **[Subscribe to Technically Narrative](https://robertgdev.substack.com/about)**
+👉 **[Subscribe to my Technically Narrative Substack](https://robertgdev.substack.com/about)**
 
 ---
 
