@@ -12,6 +12,12 @@ These templates are discussed in my substack, where I write about the technical 
 
 ---
 
+## 📥 Download Templates
+
+* **[Lesson 6: Comic Script Template](https://github.com/kaoticgreen/TechnicallyNarrative/blob/main/templates/lesson-6-template.md)**
+
+---
+
 ## 🔓 License & Usage
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
