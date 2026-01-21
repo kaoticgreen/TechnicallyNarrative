@@ -1,4 +1,4 @@
-# Technically Narrative: Templates & Tools
+# Technically Narrative Templates
 
 A collection of open-source templates for graphic novelists and game developers.
 
@@ -12,7 +12,7 @@ These templates are discussed in my substack, where I write about the technical 
 
 ---
 
-## 📥 Download Templates
+## 📥 Download the Templates
 
 * **[Lesson 6: Comic Script Template](https://github.com/kaoticgreen/TechnicallyNarrative/blob/main/templates/lesson-6-template.md)**
 
