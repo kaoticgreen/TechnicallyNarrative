@@ -1,12 +1,12 @@
 # Technically Narrative: Templates & Tools
 
-A collection of open-source templates, scripts, and structural tools for graphic novelists and game developers.
+A collection of open-source templates for graphic novelists and game developers.
 
-This repository serves as the companion code base for the **Technically Narrative** newsletter. It contains Markdown-formatted resources designed to help you engineer better stories, organized by format and function.
+This repository serves as the companion repository of templates for the **Technically Narrative** substack. It contains Markdown-formatted resources designed to help you develop your stories, organized by the lesson they are a part of.
 
 ## 📬 Technically Narrative
 
-These templates are discussed and expanded upon in my newsletter, where I writer about the technical elements of writing.
+These templates are discussed in my substack, where I write about the technical elements of writing.
 
 👉 **[Subscribe to my Technically Narrative Substack](https://robertgdev.substack.com/about)**
 
