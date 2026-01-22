@@ -8,7 +8,7 @@ This repository serves as the companion repository of templates for the **Techni
 
 These templates are discussed in my substack, where I write about the technical elements of writing.
 
-👉 **[Subscribe to my Technically Narrative Substack](https://robertgdev.substack.com/about)**
+👉 **[Subscribe to my Technically Narrative Substack](https://robertgdev.substack.com/)**
 
 ---
 
