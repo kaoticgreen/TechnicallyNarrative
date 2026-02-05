@@ -17,8 +17,8 @@ by
 **SCENE METADATA (THE KISHOTENKETSU AUDIT)**
 * **The Pattern (Ki):** [What is the established rule, expectation, or status quo of this scene?]
 * **The Challenge (Sho):** [What puzzle or obstacle forces the character to engage with that pattern?]
-* **The Break (Ten):** [How is the pattern broken? What is the recontextualization or twist?]
-* **The Reward (Ketsu):** [What does the character (or reader) gain? Knowledge, item, or emotional release?]
+* **The Break (Ten):** [How is the pattern broken? What is the twist?]
+* **The Reward (Ketsu):** [What does the character gain? Some kind of knowledge, item, or emotional release?]
 
 ---
 

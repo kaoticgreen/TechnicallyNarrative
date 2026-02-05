@@ -15,6 +15,7 @@ These templates are discussed in my substack, where I write about the technical 
 ## 📥 Download the Templates
 
 * **[Lesson 6: Comic Script Template](https://github.com/kaoticgreen/TechnicallyNarrative/blob/main/templates/lesson-6-template.md)**
+* **[Lesson 8: Comic Script Template](https://github.com/kaoticgreen/TechnicallyNarrative/blob/main/templates/lesson-8-template.md)**
 
 ---
 
